@@ -5,7 +5,7 @@
 		)
 	));
 	$feed = file_get_contents('https://www.sbv.gov.vn/TyGia/faces/ReraSbvOc.jspx', false, $ctx);
-	if !(empty($feed)) {
+	if (!empty($feed)) {
 		file_put_contents("ReraSbvOc.jspx", $feed);
 	}
 ?>
