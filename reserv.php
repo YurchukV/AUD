@@ -42,7 +42,7 @@
 //	include('IDR.php');
 //	include('ETB.php');
 //	include('RWF.php');
-	include('VND.php');
+//	include('VND.php');
 	
 	function getUrlContent($url, $method = 0, $headers = null){
 		$ch = curl_init();
