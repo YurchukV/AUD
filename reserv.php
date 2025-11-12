@@ -19,7 +19,7 @@
 //	include('TRY.php');
 //	include('TMT.php');
 //	include('AMD.php');
-//	include('KGS.php');
+	include('KGS.php');
 	include('AUD.php');
 //	include('BGN.php');
 //	include('CNY.php');
