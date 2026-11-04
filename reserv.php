@@ -6,7 +6,7 @@
 	
 //	include('KZT.php');
 //	include('RUB.php');
-	include('UZS.php');
+//	include('UZS.php');
 //	include('UAH.php');
 //	include('AZN.php');
 //	include('BYN.php');
